@@ -1,0 +1,13 @@
+package prg.etudiant.projet.etudiantprojet;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EtudiantProjetApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
